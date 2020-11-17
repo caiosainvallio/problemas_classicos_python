@@ -12,3 +12,5 @@ __Esse repositório contêm as solucões apresentadas no livro__
 
 ### 1.3 [Criptografia Inquebrável](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/1.3_criptografia/unbreakable_encryption.py)
 
+### 1.4 [Calculando Pi](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/1.4_calculando_pi/calculating_pi.py)
+
