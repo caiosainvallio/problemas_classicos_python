@@ -14,3 +14,5 @@ __Esse repositório contêm as solucões apresentadas no livro__
 
 ### 1.4 [Calculando Pi](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/1.4_calculando_pi/calculating_pi.py)
 
+### 1.5 [Torres de Hanói](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/1.5_torres_hanoi/hanoi.py)
+
