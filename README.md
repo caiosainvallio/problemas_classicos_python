@@ -16,3 +16,5 @@ __Esse repositório contêm as solucões apresentadas no livro__
 
 ### 1.5 [Torres de Hanói](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/1.5_torres_hanoi/hanoi.py)
 
+### 2.1 [Busca em DNA](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/2.1_busca_dna/dna_search.py)
+
