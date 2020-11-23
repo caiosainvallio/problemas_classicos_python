@@ -18,3 +18,5 @@ __Esse repositório contêm as solucões apresentadas no livro__
 
 ### 2.1 [Busca em DNA](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/2.1_busca_dna/dna_search.py)
 
+#### 2.1.2 [Busca Genérica](https://github.com/caiosainvallio/problemas_classicos_python/blob/main/2.1_generic_search/generic_search.py)
+
